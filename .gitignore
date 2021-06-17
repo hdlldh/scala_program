@@ -1,0 +1,7 @@
+*
+!.gitignore
+!*.scala
+!*.sbt
+!*.properties
+!*.md
+!*/
